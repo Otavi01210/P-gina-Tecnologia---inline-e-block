@@ -35,8 +35,9 @@
     line-height: 1.5;
 }
 
-.img2 {
-    width: 0%;
+#img2 {
+    width: 199%;
+    display: block;
 }
 
 #t2 {
@@ -59,7 +60,7 @@ footer {
 
 header {
     position: fixed;
-    color: azure;
+    color: rgb(111, 255, 255);
     font-size: 22px;
     background: rgba(255, 255, 255, 0.1);
     width: 100%;
